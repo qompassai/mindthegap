@@ -1,6 +1,8 @@
 # Mind the AI Gap: Unequal Access and Unequal Preparation in Graduate Medical Education
 
-**AUTHOR NAME, DEGREE(S)**
+**Matt A. Porter, B.Sc.**  
+**Qompass AI, Spokane, Washington 99207, USA**  
+**ORCID:** https://orcid.org/0000-0002-0302-4812
 
 ---
 
@@ -159,11 +161,16 @@ If AI competency becomes an expectation of modern clinical training, access to t
 
 ---
 
-**AUTHOR NAME, DEGREE(S)** is [ROLE/TITLE], [DEPARTMENT OR PROGRAM, INSTITUTION, CITY, STATE/PROVINCE, COUNTRY].
+## Author Information
 
-**Disclosure:** Generative artificial intelligence was used to assist with initial drafting and organization of this manuscript. The authors are responsible for independently verifying the accuracy of all claims and references, revising the final text, and taking responsibility for the submitted manuscript. Revise this statement to match the AI use in the final submitted version and current JGME policy.
+**Matt A. Porter, B.Sc.** is affiliated with **Qompass AI**, Spokane, Washington 99207, USA.  
+**ORCID:** https://orcid.org/0000-0002-0302-4812
+
+**Disclosure:** Generative artificial intelligence was used to assist with initial drafting and organization of this manuscript. The author is responsible for independently verifying the accuracy of all claims and references, revising the final text, and taking responsibility for the submitted manuscript. This statement should be revised as needed to match the final use of AI and current JGME policy.
 
 **Corresponding author:**  
-AUTHOR NAME, DEGREE(S)  
-DEPARTMENT OR PROGRAM, INSTITUTION, CITY, STATE/PROVINCE, COUNTRY  
-EMAIL
+Matt A. Porter, B.Sc.  
+Qompass AI  
+Spokane, Washington 99207, USA  
+ORCID: https://orcid.org/0000-0002-0302-4812  
+Email: [map@qompass.ai]
